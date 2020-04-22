@@ -1,8 +1,10 @@
 # TIL(2020/04/22):Flutter Get Started - Test Drive -
 ## 環境
-Android Studio：3.6.3
-Flutter 1.18.0-6.0.pre • channel dev
-Dart :2.9.0 
+Tools | Version
+--- | ---
+Android Studio | 3.6.3$
+Flutter | 1.18.0-6.0.pre • channel dev
+Dart | 2.9.0
 
 ## New Flutter Project
 main.dart：変更なし
